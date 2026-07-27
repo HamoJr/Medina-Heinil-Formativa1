@@ -1,0 +1,13 @@
+[
+  {
+    "Tipo": "TareaConVencimiento",
+    "Id": 1,
+    "Titulo": "Ir a clase",
+    "Descripcion": "Clase de conduccion",
+    "Prioridad": "Critica",
+    "Categoria": "clase",
+    "Completada": false,
+    "FechaCreacion": "2026-07-26T19:57:08.9286862-05:00",
+    "FechaVencimiento": "2026-08-01T00:00:00"
+  }
+]
